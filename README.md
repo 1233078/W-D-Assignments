@@ -41,7 +41,7 @@ Setup Instructions
 Follow these steps to set up the project locally:
 
 Clone the Repository:
-git clone https://github.com/your-username/it-helpdesk.git
+git clone [https://github.com/your-username/it-helpdesk.git](https://github.com/1233078/W-D-Assignments)
 cd it-helpdesk
 
 
